@@ -1,4 +1,4 @@
-# Project name here
+# Personal repo for star-gaze project
 > Summary description here.
 
 
